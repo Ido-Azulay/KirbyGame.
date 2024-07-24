@@ -1,6 +1,7 @@
 # Kirby Game
 
 **Developed by: Ido Azulay & Maor Attar**
+(Object-Oriented Programming Course 2: Final Project)
 
 ---
 
