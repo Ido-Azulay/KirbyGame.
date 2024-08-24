@@ -3,6 +3,7 @@
 **Developed by: Ido Azulay & Maor Attar**
 (Object-Oriented Programming Course 2: Final Project)
 
+**Video Demo:** https://www.youtube.com/watch?v=W9YCN6WlRO8 
 ---
 
 ## About the Program
